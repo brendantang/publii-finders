@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "finders",
+    "description": "",
+    "home_page_url": "https://loud-pigeon-72.deno.dev",
+    "feed_url": "https://loud-pigeon-72.deno.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "finders"
+    },
+    "items": [
+        {
+            "id": "https://loud-pigeon-72.deno.dev/hello-world.html",
+            "url": "https://loud-pigeon-72.deno.dev/hello-world.html",
+            "title": "hello, world",
+            "summary": "This is the first post",
+            "content_html": "<p>This is the first post</p>",
+            "author": {
+                "name": "finders"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-20T11:01:41-04:00",
+            "date_modified": "2023-07-20T11:01:41-04:00"
+        }
+    ]
+}

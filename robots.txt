@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://loud-pigeon-72.deno.dev/sitemap.xml
