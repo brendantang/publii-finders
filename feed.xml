@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>finders</title>
-    <link href="https://loud-pigeon-72.deno.dev/feed.xml" rel="self" />
-    <link href="https://loud-pigeon-72.deno.dev" />
+    <link href="https://brendantang.github.io/publii-finders/feed.xml" rel="self" />
+    <link href="https://brendantang.github.io/publii-finders" />
     <updated>2023-07-20T11:01:41-04:00</updated>
     <author>
         <name>finders</name>
     </author>
-    <id>https://loud-pigeon-72.deno.dev</id>
+    <id>https://brendantang.github.io/publii-finders</id>
 
     <entry>
         <title>hello, world</title>
         <author>
             <name>finders</name>
         </author>
-        <link href="https://loud-pigeon-72.deno.dev/hello-world.html"/>
-        <id>https://loud-pigeon-72.deno.dev/hello-world.html</id>
+        <link href="https://brendantang.github.io/publii-finders/hello-world.html"/>
+        <id>https://brendantang.github.io/publii-finders/hello-world.html</id>
 
         <updated>2023-07-20T11:01:41-04:00</updated>
             <summary>
